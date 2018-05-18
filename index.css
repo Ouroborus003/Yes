@@ -1,0 +1,43 @@
+body {
+  background-color:black;
+
+}
+
+header, footer {
+  padding: 1em;
+  color: white;
+  background-color: navajowhite;
+  clear: left;
+  text-align: center;
+}
+
+
+
+
+
+a:link {
+  color: lightseagreen;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: lightgreen;
+  background-color: darkslategray;
+}
+
+p {
+  color: white;
+}
+h1 {
+  font-weight: bold;
+  color:cadetblue
+}
+
+.white {
+  color: rgb(25,182,7);
+}
+
+h3 {
+  color:white
+}
